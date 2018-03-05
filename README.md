@@ -1,6 +1,9 @@
 # gitNotes
 Personal helper about Git
 
+### Setting Up Workspace
+
+[Udacity lesson](https://classroom.udacity.com/courses/ud775/lessons/2980038599/concepts/33417185870923)
 
 ### Commit
 
