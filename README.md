@@ -47,6 +47,12 @@ https://help.github.com/articles/changing-a-commit-message/
 https://medium.com/@igor_marques/git-basics-adding-more-changes-to-your-last-commit-1629344cb9a8
 
 
+### Changing a remote's url
+
+`git remote set-url origin https://github.com/USERNAME/REPOSITORY.git`
+
+https://help.github.com/articles/changing-a-remote-s-url/
+
 
 
 
