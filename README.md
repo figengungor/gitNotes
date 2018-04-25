@@ -46,6 +46,11 @@ https://help.github.com/articles/changing-a-commit-message/
 
 https://medium.com/@igor_marques/git-basics-adding-more-changes-to-your-last-commit-1629344cb9a8
 
+#### Move changes to another branch and revert master
+
+Move all uncommitted changes to a new branch and revert the existing branch to HEAD.
+https://gist.github.com/tonylukasavage/5672490
+
 
 ### Changing a remote's url
 
