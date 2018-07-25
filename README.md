@@ -58,7 +58,15 @@ https://gist.github.com/tonylukasavage/5672490
 
 https://help.github.com/articles/changing-a-remote-s-url/
 
+### Removing unstaged changes
 
+For all
+
+`git checkout --` 
+
+Or the name of the file
+
+`git checkout <insert-file-name-here>` 
 
 
 
