@@ -68,6 +68,14 @@ Or the name of the file
 
 `git checkout <insert-file-name-here>` 
 
+### After sending file to repo, let git do not track any changes to file
 
+Example: api_key file with empty string api key in it and then you stop
+tracking changes in the file with the following command and then
+update empty string with your api key.
+
+`git update-index --skip-worktree path/to/file`
+
+https://stackoverflow.com/a/50826529/1463542
 
 
