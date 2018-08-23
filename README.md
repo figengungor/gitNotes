@@ -78,4 +78,10 @@ update empty string with your api key.
 
 https://stackoverflow.com/a/50826529/1463542
 
+### Removing files from staging area
 
+remove all files:
+
+`git reset HEAD .`
+
+http://clubmate.fi/git-removing-files-from-the-staging-area-and-the-tree/
