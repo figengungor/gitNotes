@@ -85,3 +85,9 @@ remove all files:
 `git reset HEAD .`
 
 http://clubmate.fi/git-removing-files-from-the-staging-area-and-the-tree/
+
+
+### Git Config: Setup your name and email address
+
+`git config --global user.name "Firstname Lastname"`
+`git config --global user.email "your_email@youremail.com"`
