@@ -78,6 +78,20 @@ update empty string with your api key.
 
 https://stackoverflow.com/a/50826529/1463542
 
+## Remove from git index and repo 
+
+Example: There is a file that is changed specific to your environment, but this file is added to git and sent to repo. So adding it to .gitignore is not enough. You should remove that file from git index and add the changes to stage and commit and push to remove from repo. You keep your locally modified file to yourself and git will not track any changes in this.
+
+How to remove from index
+`git rm -r --cached path-to-those-files`
+
+`git add .`
+
+`git commit -m 'Remove ignored files from index'
+
+https://stackoverflow.com/a/1274447/1463542
+https://stackoverflow.com/a/9750651/1463542
+
 ### Removing files from staging area
 
 remove all files:
