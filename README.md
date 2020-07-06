@@ -106,3 +106,11 @@ http://clubmate.fi/git-removing-files-from-the-staging-area-and-the-tree/
 
 `git config --global user.name "Firstname Lastname"`
 `git config --global user.email "your_email@youremail.com"`
+
+### Take back local commit but keep changes in staging area
+
+For Windows:
+
+`git reset --soft HEAD~1`
+
+https://stackoverflow.com/questions/7214039/how-do-you-move-a-commit-to-the-staging-area-in-git
