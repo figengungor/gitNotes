@@ -114,3 +114,5 @@ For Windows:
 `git reset --soft HEAD~1`
 
 https://stackoverflow.com/questions/7214039/how-do-you-move-a-commit-to-the-staging-area-in-git
+
+https://www.clearvision-cm.com/blog/what-to-do-when-you-commit-to-the-wrong-git-branch/
