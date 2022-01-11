@@ -116,3 +116,10 @@ For Windows:
 https://stackoverflow.com/questions/7214039/how-do-you-move-a-commit-to-the-staging-area-in-git
 
 https://www.clearvision-cm.com/blog/what-to-do-when-you-commit-to-the-wrong-git-branch/
+
+## How to change a local branch name
+
+`git branch -m new-name`
+
+https://stackoverflow.com/questions/6591213/how-do-i-rename-a-local-git-branch
+
